@@ -2,11 +2,11 @@
 
 A calculator that provides the essential arithmetic operations, an expression builder, and a complete history of all expressions.
 
-Go here for live demo @[Calculator](https://github.com/facebook/create-react-app).
+Go here for live demo @[Calculator](https://abinet1.github.io/react-calculator/).
 
 # Some images
 
-![alt text](https://github.com/abinet1/React-Calculator/blob/main/image.png?raw=true)
+![alt text](https://github.com/abinet1/React-Calculator/image.png?raw=true)
 
 ## About React
 
